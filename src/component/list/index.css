@@ -1,0 +1,14 @@
+.list{
+    width: 200px;
+    background-color: #ccc;
+}
+.list ul{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    list-style: none;
+}
+.list ul a{
+    color: #222;
+    text-decoration: none;
+}
